@@ -22,7 +22,7 @@ Lack of toilet paper in toilets, causes an unsanitary environment, we want to tr
 * VCC of ultrasonic sensor to 5V of Arduino-uno
 * Trig of ultrasonic sensor to digital 9 of Arduino-uno
 * Echo of ultrasonic sensor to digital 8 of Arduino-uno
-* GND of ultrasonic sensor to GNd of Arduino-uno
+* GND of ultrasonic sensor to GND of Arduino-uno
 
 ### Flow of data 
 * Ultrasonic sensor sends data to Arduino-Uno. 
