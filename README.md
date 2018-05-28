@@ -1,7 +1,8 @@
 
 # Smart WC, Sanitary Campus
 
-Lack of toilet paper in toilets, causes an unsanitary environment, we want to track it before the toilet paper level drops below threshold.
+Lack of toilet paper in toilets, causes an unsanitary environment, we want to track it before the toilet paper level drops below threshold and inform the authorized person.
+
 
 
 ## Team Members
