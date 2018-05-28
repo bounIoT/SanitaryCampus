@@ -1,0 +1,35 @@
+{
+  "name": "node-js-getting-started",
+  "version": "0.3.0",
+  "description": "A sample Node.js app using Express 4",
+  "engines": {
+    "node": "8.9.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "chart.js": "^2.7.2",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "nodemailer": "^4.6.4",
+    "socket.io": "^2.1.0",
+    "socket.io-client": "^2.1.0"
+  },
+  "devDependencies": {
+    "request": "^2.81.0",
+    "tape": "^4.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YastaB/SmartSanitaryCampus.git"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
